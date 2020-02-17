@@ -11,4 +11,6 @@ movie database in XML format.
 
 Application was created using the Visual Studio IDE. 
 The C++/CLI toolbox was used to design GUI. 
+
+![GUI](gui.png)
  
